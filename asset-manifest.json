@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Tech-Website/static/css/main.6ed6505f.css",
+    "main.js": "/Tech-Website/static/js/main.0d4c6859.js",
+    "static/js/787.9718534a.chunk.js": "/Tech-Website/static/js/787.9718534a.chunk.js",
+    "index.html": "/Tech-Website/index.html",
+    "main.6ed6505f.css.map": "/Tech-Website/static/css/main.6ed6505f.css.map",
+    "main.0d4c6859.js.map": "/Tech-Website/static/js/main.0d4c6859.js.map",
+    "787.9718534a.chunk.js.map": "/Tech-Website/static/js/787.9718534a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ed6505f.css",
+    "static/js/main.0d4c6859.js"
+  ]
+}
